@@ -1,0 +1,8 @@
+# JetBrains IDEs
+.idea
+.idea/*
+.clang-format
+
+# Compiled output
+*.o
+*.out
