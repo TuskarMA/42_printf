@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/7ec7fbcc-72b1-4a4f-949b-1f798cdfba0a)
 
-![Build Status](https://github.com/TuskarMA/42_libft/actions/workflows/c-cpp.yml/badge.svg)
-
 Maded by [ddivaev](https://profile.intra.42.fr/users/ddivaev)
 
 ## [printfTester](https://github.com/Tripouille/printfTester) results
